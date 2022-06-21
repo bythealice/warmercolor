@@ -44,10 +44,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/warmercolor/warmercolor/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 ![Snake animation](https://github.com/rafaballerini/warmercolor/blob/output/github-contribution-grid-snake.svg)
 
 ###
