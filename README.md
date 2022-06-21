@@ -48,6 +48,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=warmercolor.warmercolor&left_color=deeppink&right_color=darkblue"  />
+![Snake animation](https://github.com/rafaballerini/warmercolor/blob/output/github-contribution-grid-snake.svg)
 
 ###
