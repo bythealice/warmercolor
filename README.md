@@ -42,3 +42,8 @@
 </div>
 
 
+###
+
+![Snake animation](https://github.com/warmercolor/warmercolor/blob/output/github-contribution-grid-snake.svg)
+
+###
