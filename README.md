@@ -43,6 +43,12 @@
   </a>
 </div>
 
+##
+
+<img src="https://activity-graph.herokuapp.com/graph?username=warmercolor&theme=dracula&hide_border=true&area=true"/>
+
+##
+
 
 ###
 
