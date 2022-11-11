@@ -45,7 +45,7 @@
 
 ##
 
-<img src="https://activity-graph.herokuapp.com/graph?username=warmercolor&theme=dracula&hide_border=true&area=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=warmercolor&theme=violet-dark&locale=pt-br)](https://git.io/streak-stats)
 
 ##
 
