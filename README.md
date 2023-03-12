@@ -1,4 +1,4 @@
-<h2 align="center">Oiii eu sou a Thaisa Alice, futura desenvolvedora full stack!</h2>
+<h2 align="center">Oiii eu sou a Thaisa Alice, desenvolvedora full stack!</h2>
 
 
 <div align="center">
