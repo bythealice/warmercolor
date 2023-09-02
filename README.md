@@ -1,6 +1,6 @@
 # Thaisa Alice 🚀
 
-Olá! Sou a Thaisa Alice, uma desenvolvedora full stack apaixonada por tecnologia. Sou formada e atuo profissionalmente, ajudando a construir a web do futuro!
+Olá! Sou a Thaisa Alice, uma desenvolvedora full stack apaixonada por tecnologia. Sou formada, atuo profissionalmente ajudando a construir a web do futuro e atualmente estou aprofundando meus estudos em Ciências de Dados.
 
 ## 🔧 Tecnologias & Ferramentas
 
