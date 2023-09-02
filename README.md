@@ -6,12 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=warmercolor" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://img.freepik.com/vetores-gratis/ilustracao-colorida-de-garota-com-cabelo-azul-em-fundo-rosa-com-brilhos_383380-86.jpg?w=2000"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="70" alt="html5 logo"  />
@@ -35,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="30" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" width="70" />
+          
 </div>
 
 ###
@@ -43,7 +39,7 @@
   <a href="https://www.linkedin.com/in/thaisa-alice/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.gg/KCqEzNqf" target="_blank">
+  <a href="https://discord.gg/KCqEzNqf](https://discord.gg/dtc6jNDM" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
@@ -57,10 +53,3 @@
 </p>
 
 ##
-
-
-###
-
-![Snake animation](https://github.com/warmercolor/warmercolor/blob/output/github-contribution-grid-snake.svg)
-
-###
