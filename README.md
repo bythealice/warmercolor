@@ -44,7 +44,7 @@ Olá! Sou a Thaisa Alice, uma desenvolvedora full stack apaixonada por tecnologi
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" width="70" /> Git
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" width="70" /> Docker
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="30" width="70" /> Kubernetes
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original-wordmark.svg" height="30" width="70" /> Kafka
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" width="70" /> Kafka
           
 
 ## 🌐 Redes Sociais
