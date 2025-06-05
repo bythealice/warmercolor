@@ -35,5 +35,5 @@ Atualmente, minha especialidade é unir **frontend moderno**, **UX estratégico*
 ## 📈 GitHub
 
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=warmercolor&theme=violet-dark&locale=pt-br"/>
+<img src="https://streak-stats.demolab.com?user=bythealice&theme=violet-dark&locale=pt-br"/>
 </a>
